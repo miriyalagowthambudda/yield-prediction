@@ -1,0 +1,1 @@
+https://github.com/miriyalagowthambudda/yield-prediction/blob/a849560801ebdf0ea6fb7b755fc7a5bcd0b1b309/Crop_yield.ipynb
